@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @DelishUz
-- 👀 I’m interested in Food
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, We @DelishUz
+- 👀 We interested in cook Food 
 - 📫 How to reach me ...
